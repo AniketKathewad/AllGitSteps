@@ -1,0 +1,21 @@
+git init -------- to make .git folder
+
+git remote add origin "link of repository from github" --- clone repository
+
+git pull origin master ---- to fetch  from master branch of github
+
+mv for move
+
+cp for copy
+
+echo for content print
+
+cat for content print of file
+
+rm for remove
+
+mkdir for make directory
+
+mkdir -p dir1/dir2 for creating multiple directories
+
+rmdir for removing directory
